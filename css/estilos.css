@@ -31,11 +31,12 @@ padding-bottom: 80px !important;
 footer{
 
 	padding-top: 80px !important;
-	text-align: medium;
+	text-align: center;
 	align-self: center;
 }
 
-// Small devices (landscape phones, 544px and up)
+//Small devices (landscape phones, 544px and up)
+
 @media (min-width: 544px) { ... }
 
 // Medium devices (tablets, 768px and up)
